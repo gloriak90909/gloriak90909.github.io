@@ -28,9 +28,10 @@ author:
   pronouns         : "she/her"  
   bio              : "Computer Science Undergraduate"
   location         : "Raleigh, NC"
-  employer         : "North Carolina State University"
+  employer         : "NC State University"
   uri              : # URL
   email            : "ghkim@ncsu.edu" 
+  linkedin         : "https://www.linkedin.com/in/gloria-kim-344695265/"
 
   # Academic websites
   academia         : # URL
