@@ -1,0 +1,9 @@
+.author__avatar img {
+  max-width: 100px !important;
+  max-height: 100px !important;
+  border-radius: 50% 50% 45% 45% / 40% 40% 60% 60% !important;
+  object-fit: cover !important;
+  aspect-ratio: 1/1 !important;
+  display: block;
+  margin: 0 auto;
+}
