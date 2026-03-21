@@ -3,7 +3,7 @@
     "name": "Your Sidebar Name",
     "email": "none@example.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
+    "website": "https://ghkim.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
@@ -33,13 +33,13 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "North Carolina State University",
+      "area": "BS in Computer Science",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2027",
       "gpa": null,
-      "courses": []
+      "courses": ["Intro to Artificial Intelligence, Data Structures and Algorithms, Software Engineering"]
     },
     {
       "institution": "GitHub University",
